@@ -1,0 +1,83 @@
+{
+  "refreshTime": 60,
+  "roles": [
+    {
+      "name": "OWNER",
+      "priority": 100,
+      "color": "#E9FF00",
+      "ids": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "ADMIN",
+      "priority": 90,
+      "color": "#FF001F",
+      "ids": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "MODERATOR",
+      "priority": 80,
+      "color": "#FF8300",
+      "ids": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "COMPOSER",
+      "priority": 70,
+      "color": "#0076A4",
+      "ids": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "FINGERPAINTER",
+      "priority": 60,
+      "color": "#950055",
+      "ids": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "EARLY ACCESS",
+      "priority": 50,
+      "color": "#8000BE",
+      "ids": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
