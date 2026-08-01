@@ -78,6 +78,19 @@
         "CB44D675B54C949",
         "E2E9A8878A6B26AD"
       ]
+    },
+    {
+      "name": "SERVERBOOSTER",
+      "priority": 40,
+      "color": "#F900FF",
+      "ids": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
     }
   ]
 }
