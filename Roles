@@ -48,7 +48,7 @@
     },
     {
       "name": "COMPOSER",
-      "priority": 70,
+      "priority": 90,
       "color": "#0076A4",
       "ids": [
         "3EB700E1FE387CCF",
@@ -68,7 +68,7 @@
       "ids": [
         "36E0EDC4B060A2F4",
         "5B44B6C239082D28",
-        "973C5D9BDA9CF2EE",
+        "",
         "49FC6E21D0ABC012",
         "38836053A424E051",
         "DCA3B6FF8C336371",
